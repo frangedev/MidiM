@@ -9,7 +9,7 @@ MidiM MIDIMaestro is a customizable MIDI controller interface that empowers musi
 - **Cross-Platform**: Built with Python, works on Windows, macOS, and Linux.
 
 ## Why It’s Cool
-MidiM (MidiMaestro) gives you the freedom to create a MIDI controller tailored to your workflow. Whether you're a DJ tweaking effects or a musician controlling synth parameters, this tool puts the power in your hands.
+MidiM MIDIMaestro gives you the freedom to create a MIDI controller tailored to your workflow. Whether you're a DJ tweaking effects or a musician controlling synth parameters, this tool puts the power in your hands.
 
 ## Technologies
 - **Python**: Core programming language.
