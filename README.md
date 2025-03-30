@@ -1,6 +1,6 @@
-# MidiM (MidiMaestro) - An Open Source Custom MIDI Controller Interface
+# MidiM MIDIMaestro - An Open Source Custom MIDI Controller Interface
 
-MidiM (MidiMaestro) is a customizable MIDI controller interface that empowers musicians and DJs to design their own control layouts. Using a simple drag-and-drop interface, users can assign sliders, buttons, and knobs to MIDI commands and save their layouts for later use.
+MidiM MIDIMaestro is a customizable MIDI controller interface that empowers musicians and DJs to design their own control layouts. Using a simple drag-and-drop interface, users can assign sliders, buttons, and knobs to MIDI commands and save their layouts for later use.
 
 ## Features
 - **Drag-and-Drop Interface**: Easily position sliders, buttons, and knobs on a canvas.
